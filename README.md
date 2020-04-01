@@ -9,3 +9,10 @@ Steps involved :
 3. Indexing 
 4. Feature extraction
 5. Classification
+
+Models used:
+Decision Tree
+Random forest decision tree
+Multinomial naive bayes
+Naive bayes
+SVC
